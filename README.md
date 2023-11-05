@@ -6,16 +6,5 @@ description: Looking into relocation data
 
 What are the things I want to compare / analyse?
 
-| Dimensions and Measures       | What do I really need?                                                                   | What's the source     | is is trusted? |
-| ----------------------------- | ---------------------------------------------------------------------------------------- | --------------------- | -------------- |
-| Schools                       | School Performance score                                                                 | NC Public School Data |                |
-| Cost of Living                | By County?                                                                               | Gov't                 |                |
-| House Prices                  | No. of House Sales, Median House Price Sold, Median vs Asking, Median + Change over Time | Zillow?               |                |
-| Home Owner Taxes              | -                                                                                        | Gov't                 |                |
-| State Taxes                   | -                                                                                        | Gov't                 |                |
-| Population Change             | Vary per county                                                                          | Gov't?                |                |
-| Rental Prices                 | Median + Change over time                                                                | Zillow                |                |
-| Time to Whole Foods           | Geo Data - Static Value - All in the area                                                | Geo                   |                |
-| Time to International Airport | Geo Data - Static Value - Charlotte and RD                                               | Geo                   |                |
-| Communities with Pools        | Geo Data - Relative values                                                               | ?                     |                |
+<table><thead><tr><th width="216">Focus areas</th><th width="297">Details</th><th width="173">Trusted Source?</th></tr></thead><tbody><tr><td>Schools</td><td>School Performance score</td><td>NC Public Schools</td></tr><tr><td>Cost of Living</td><td>By County?</td><td>Gov't</td></tr><tr><td>House Prices</td><td>No. of House Sales, Median House Price Sold, Median vs Asking, Median + Change over Time</td><td>Zillow?</td></tr><tr><td>Home Owner Taxes</td><td>-</td><td>Gov't</td></tr><tr><td>State Taxes</td><td>-</td><td>Gov't</td></tr><tr><td>Population Change</td><td>Vary per county</td><td>Gov't?</td></tr><tr><td>Rental Prices</td><td>Median + Change over time</td><td>Zillow</td></tr><tr><td>Time to Whole Foods</td><td>Geo Data - Static Value - All in the area</td><td>Geo</td></tr><tr><td>Time to International Airport</td><td>Geo Data - Static Value - Charlotte and RD</td><td>Geo</td></tr><tr><td>Communities with Pools</td><td>Geo Data - Relative values</td><td>?</td></tr></tbody></table>
 
